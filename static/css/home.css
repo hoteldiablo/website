@@ -1,0 +1,25 @@
+body {
+    background-color: slategray;
+    text-align: center;
+    align-content: center;
+}
+
+p {
+    color: white;
+    font: Shanti;
+    font-size: 1.2em;
+    margin: 20px;
+}
+
+.row {
+    text-align: center;
+    display: flex;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+}
+  
+.column {
+    flex: 100%;
+    padding: 1px;
+}
